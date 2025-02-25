@@ -12,9 +12,9 @@ process -
 3 Delete unwanted columns and blank values.
 
 insight - 
-The high attrition rate is the age group between the 26-35.
-Sales attrition rate is high (21%).
-The attrition count is high in life science and medical fields.
+1) The high attrition rate is the age group between the 26-35.
+2) Sales attrition rate is high (21%).
+3) The attrition count is high in life science and medical fields.
 
 conclusion - 
  To reduse the attrition of employees and focus on improvement of the employee performance.
